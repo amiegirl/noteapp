@@ -1,1 +1,1 @@
-Basic note taking application using Flask
+**Basic note taking application using Flask**
